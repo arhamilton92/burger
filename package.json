@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/arhamilton92/burger#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "express-handlebars": "^5.0.0",
     "exxpress": "^1.0.0",
     "mysql": "^2.18.1"
