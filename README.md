@@ -28,6 +28,6 @@ Application is licensed under the MIT License. Details are included in the LICEN
 
 ## Screenshots
 
-![image](![image](https://user-images.githubusercontent.com/64741393/87491776-fc23b480-c616-11ea-889e-ef8372b7109e.png)
-)
+![image](https://user-images.githubusercontent.com/64741393/87492330-54a78180-c618-11ea-968a-cee01a0d8161.png)
+
 
